@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MikhailNechaev
-- 👀 I’m interested in deploy my py project
+- 👀 I’m interested in deploy my python project
 - 🌱 I’m currently learning python
